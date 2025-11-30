@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Olá, eu sou Geovana!
+<h1 align="center">👋 Olá, eu sou a Geovana!</h1>
+<p align="center">Desenvolvedora em formação • Java Full Stack • Apaixonada por tecnologia 🚀</p>
 
-------------------------------------------------------------------------
+
+---
+
 
 ## :raising_hand: Sobre mim
 
@@ -26,7 +29,37 @@ Meu objetivo é **compartilhar conhecimento**, colaborar em **projetos
 Open Source** e apoiar a comunidade dev através do tempo.
 
 
-------------------------------------------------------------------------
+---
+
+
+✨ **Meus objetivos:**
+- Compartilhar conhecimento;
+- Contribuir com projetos open source;
+- Criar soluções práticas e acessíveis;
+- Crescer profissional e pessoalmente dentro da área de tecnologia.
+
+
+---
+
+
+## 🛠️ Tecnologias & Ferramentas
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,git,github,vscode" />
+</p>
+
+
+---
+
+
+## 📊 Minhas estatísticas no GitHub
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sgeo21&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgeo21&layout=compact&theme=tokyonight"/>
+</p>
+
+
+---
+
 
 ## 🌎 Onde me encontrar
 
@@ -35,7 +68,10 @@ Open Source** e apoiar a comunidade dev através do tempo.
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel)](#)
 📧 **Email profissional:** s.geo2112@gmail.com
 
-------------------------------------------------------------------------
 
-⭐ *Sempre aberto a colaborações, novas ideias e desafios!*
+---
+
+
+## ⭐ Sempre aberta a novas conexões, ideias, colaborações e desafios!
+Se quiser trocar conhecimento, construir algo juntos ou conversar sobre tecnologia, é só chamar! 😄
 
