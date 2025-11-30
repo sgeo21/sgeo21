@@ -51,10 +51,9 @@ Open Source** e apoiar a comunidade dev através do tempo.
 ---
 
 
-## 📊 Minhas estatísticas no GitHub
+## 📊 Linguagens mais usadas
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sgeo21&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgeo21&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sgeo21&layout=compact&theme=tokyonight" />
 </p>
 
 
