@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E6E6&width=500&lines=✨++Seja+bem-vindo+ao+meu+GitHub!" /><br>
 <img src="https://ik.imagekit.io/kv6tr431r/Portfolio/Novas/GeoDev.png?updatedAt=1764548917793" width="40%" /><br>
-Desenvolvedora em formação • Java Full Stack • Apaixonada por tecnologia 🚀</p>
+Desenvolvedora • Java Full Stack • Apaixonada por tecnologia 🚀</p>
 
 
 ---
