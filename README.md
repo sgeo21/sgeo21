@@ -26,8 +26,8 @@ Desenvolvedora em formação • Java Full Stack • Apaixonada por tecnologia �
 
 ## Sobre mim
 
-Sou uma desenvolvedora em formação, apaixonada por tecnologia e por tudo que envolve criação, lógica e inovação.  
-Atualmente estudo **Desenvolvimento de Sistemas** com foco em **Java Full Stack**, enquanto também me aprofundo em **Python**.
+Sou uma desenvolvedora fullstack, apaixonada por tecnologia e por tudo que envolve criação, lógica e inovação.  
+Atualmente estudo **Desenvolvimento de Sistemas** e **Desenvolvimento de Software Multiplataforma** com foco em **Fontend**, enquanto também me aprofundo em **Java**, **Python**, **Machine learning**, entre outras tecnologias.
 
 Estou sempre buscando aprender algo novo, construir projetos práticos e evoluir tanto tecnicamente quanto pessoalmente.
 
@@ -62,7 +62,7 @@ Estou sempre buscando aprender algo novo, construir projetos práticos e evoluir
   <img src="https://img.shields.io/badge/Python-50%25-yellow" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML%2FCSS-65%25-orange" />
 </p>
--->
+
 ---
 
 
@@ -74,7 +74,7 @@ Estou sempre buscando aprender algo novo, construir projetos práticos e evoluir
   Minhas contribuições!<br><br>
 <img width="48%" src="https://streak-stats.demolab.com?user=sgeo21&theme=tokyonight"/>
 </p>
-
+-->
 
 
 ---
