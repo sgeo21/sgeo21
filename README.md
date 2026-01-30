@@ -51,7 +51,7 @@ Estou sempre buscando aprender algo novo, construir projetos práticos e evoluir
 <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,git,github,vscode" />
 </p>
 
-
+<!--
  ---
 
 ### Progresso de Aprendizado
@@ -66,7 +66,7 @@ Estou sempre buscando aprender algo novo, construir projetos práticos e evoluir
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!--
+
 <p align="center ">
   <img src="https://img.shields.io/badge/Java-70%25-blue" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-50%25-yellow" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,7 +90,7 @@ Estou sempre buscando aprender algo novo, construir projetos práticos e evoluir
 ---
 
 
-## Onde me encontrar
+## Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgeo21/)
 [![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-6A5ACD?style=for-the-badge)](https://sgeo21.github.io/Portfolio/)
