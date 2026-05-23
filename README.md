@@ -27,7 +27,7 @@ Desenvolvedora • Java Full Stack • Apaixonada por tecnologia 🚀</p>
 ## Sobre mim
 
 Sou uma desenvolvedora fullstack, apaixonada por tecnologia e por tudo que envolve criação, lógica e inovação.  
-Atualmente estudo **Desenvolvimento de Sistemas** e **Desenvolvimento de Software Multiplataforma** com foco em **Fontend**, enquanto também me aprofundo em **Java**, **Python**, **Machine learning**, entre outras tecnologias.
+Atualmente estudo **Desenvolvimento de Software Multiplataforma** com foco em **Fontend**, trabalhando como estagiária com **React** **JavaScript** e aprendendo mais sobre **TypeScript**, enquanto também me aprofundo em **Java**, **Python**, **C++**, **Machine learning**, entre outras tecnologias.
 
 Estou sempre buscando aprender algo novo, construir projetos práticos e evoluir tanto tecnicamente quanto pessoalmente.
 
